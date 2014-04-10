@@ -28,4 +28,3 @@ au BufRead,BufNewFile *.sql set shiftwidth=3
 set hlsearch
 highlight Search ctermfg=Grey ctermbg=Blue
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
-"test 2!
